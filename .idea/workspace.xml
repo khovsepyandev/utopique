@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e521c41b-43fc-46a3-ac55-8b96b781945f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/utopiquehub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(cms)/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(cms)/outstatic/[[...ost]]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/api/outstatic/[[...ost]]/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/ad-banner/AddBanner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/ad-banner/AddBanner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/category/CategoryList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/category/CategoryList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/category/CategoryListSlide.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/category/CategoryListSlide.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/form/FormOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/form/FormOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/instagram/InstagramOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/instagram/InstagramOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionEight.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionEight.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionEleven.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionEleven.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionFive.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionFive.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionFour.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionFour.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionNine.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionNine.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionSeven.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionSeven.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionSix.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionSix.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionTen.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionTen.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionThree.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionThree.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionTwelve.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionTwelve.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/PostSectionTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/PostSectionTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/PostFormatAudio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/PostFormatAudio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/PostFormatGallery.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/PostFormatGallery.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/PostFormatQuote.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/PostFormatQuote.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/PostFormatStandard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/PostFormatStandard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/PostFormatVideo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/PostFormatVideo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostAuthor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostAuthor.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostComment.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostComment.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostMetaOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostMetaOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostMetaThree.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostMetaThree.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostMetaTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostMetaTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/format/element/PostTagShare.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/format/element/PostTagShare.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/layout/PostLayoutOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/layout/PostLayoutOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/post/layout/PostLayoutTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/post/layout/PostLayoutTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/SidebarOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/SidebarOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/SidebarTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/SidebarTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetAd.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetAd.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetCategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetCategory.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetInstagramPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetInstagramPost.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetNewsletter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetNewsletter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetPostList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetPostList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetSearch.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetSocialShare.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetSocialShare.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetTags.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetTags.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/sidebar/WidgetVideoPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/sidebar/WidgetVideoPost.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/slider/SliderOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/slider/SliderOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/slider/SliderTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/slider/SliderTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/components/social/SocialOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/social/SocialOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/breadcrumb/breadcrumbOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/breadcrumb/breadcrumbOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/breadcrumb/breadcrumbTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/breadcrumb/breadcrumbTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/color-switcher/ColorSwitcher.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/color-switcher/ColorSwitcher.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/footer/FooterOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/footer/FooterOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/footer/FooterThree.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/footer/FooterThree.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/footer/FooterTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/footer/FooterTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/head/HeadTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/head/HeadTitle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/HeaderFour.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/HeaderFour.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/HeaderOne.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/HeaderOne.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/HeaderThree.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/HeaderThree.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/HeaderTwo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/HeaderTwo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/MobileMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/MobileMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/header/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/header/Nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/elements/sectionTitle/SectionTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/elements/sectionTitle/SectionTitle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/common/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/instagram/instagram.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/instagram/instagram.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/mobilemenu/MenuData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/mobilemenu/MenuData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/privacy/PrivacyPolicy.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/privacy/PrivacyPolicy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/data/social/SocialData.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/social/SocialData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/author/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/author/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/category/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/category/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/creative-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/creative-blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/lifestyle-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/lifestyle-blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/maintenance.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/maintenance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/post-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/post-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/post/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/post/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/privacy-policy.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/privacy-policy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/seo-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/seo-blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/tag/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tag/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pages/tech-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tech-blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_animations.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_extend.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_extend.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_shortcode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_shortcode.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_spacing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/default/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/default/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_breadcrumb.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_category.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_category.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_cursor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_cursor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_scrolltotop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_scrolltotop.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_section-title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_section-title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_slick.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_slick.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_tab.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_tab.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/elements/_video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/elements/_video.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/footer/_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer/_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/footer/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/header/_mobilemenu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/_mobilemenu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/header/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/header/_subscribe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header/_subscribe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_comment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_comment.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_post-details.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_post-details.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_post-format.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_post-format.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_post-list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_post-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_post-stories.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_post-stories.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/post/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/post/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/rtl/rtl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/rtl/rtl.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_animation-image-hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_animation-image-hover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_author.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_author.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_darkversion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_darkversion.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_error.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_instagram.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_instagram.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/styles/template/_maintanence.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/template/_maintanence.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sdiumwqfxxKxXgHOOqnhvX72UQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "blog",
+    "last_opened_file_path": "/Users/karenhovsepyan/Desktop/utopiquehub",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/api/outstatic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/(cms)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e521c41b-43fc-46a3-ac55-8b96b781945f" name="Changes" comment="" />
+      <created>1738792078464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738792078464</updated>
+      <workItem from="1738792079781" duration="7097000" />
+      <workItem from="1738832926776" duration="2913000" />
+      <workItem from="1738954654950" duration="6926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
